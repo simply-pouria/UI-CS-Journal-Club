@@ -18,4 +18,4 @@ Our **[Glossary](glossary%20index)** provides clear definitions of the technical
 Each session is followed by a **[Session Review](Session%20Reviews)**, where we summarize the discussion, highlight key points, and note further directions for exploration.
 
 
-![Here is Our Leader Board!](Leader%20Board)
+![Here is Our Leader Board!](Leader%20Board.md)
