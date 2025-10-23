@@ -17,8 +17,15 @@ Our **[Glossary](glossary%20index)** provides clear definitions of the technical
 
 Each session is followed by a **[Session Review](Session%20Reviews)**, where we summarize the discussion, highlight key points, and note further directions for exploration.
 
+[Here Is Our Leader Board](Leader%20board)
 
-{{< include "content/Leader board.md" >}}
+| Rank | Name | Total 💡Insight Points💡 |
+| ---- | ---- | ------------------------ |
+|      |      |                          |
 
+- **Attendance** -  10💡
+- **Presentation** -  30💡
+- **Contribution to the [[Glossary]]** (per word) - 5💡
+- **Session Review** - 20💡
 
 
