@@ -18,6 +18,6 @@ Our **[Glossary](glossary%20index)** provides clear definitions of the technical
 Each session is followed by a **[Session Review](Session%20Reviews)**, where we summarize the discussion, highlight key points, and note further directions for exploration.
 
 
-{{< include "Leader board.md" >}}
+{{< include "Leader%20board.md" >}}
 
 
