@@ -18,7 +18,7 @@ Date: 2025-10-02
 #### 👥 Attendees
 1. Ali Fazel  
 2. Behnam Moein  
-3. Ehsan Qaderi  
+3. Ehsan Ghaderi  
 4. Farnoush Pourshaban  
 5. Hossein Karimjafari  
 6. Mohammad-Ali Safaei  
