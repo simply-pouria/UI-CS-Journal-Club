@@ -2,7 +2,7 @@
 session: "1"
 Arc: AI
 Type: Review
-Date: 2025-10-02
+Date: 2025-10-20
 ---
 
 
@@ -24,15 +24,16 @@ Date: 2025-10-02
 6. Mohammad-Ali Safaei  
 7. Mohammad-Amin Mojahedi  
 8. Mohammad-Erfan Moradi  
-9. Pouyan Motamedi  
-10. Pouria Moradpour  
-11. Pouria Yousefi  
-12. Reyhaneh Baqeri  
-13. Reza Mirmohammadsadeqi  
-14. Shayan Najafian  
-15. Tahmineh Torabi  
-16. Yahya Izadi  
-17. Zahra Tabatabaei
+9. Mohammad Mozaffari
+10. Pouyan Motamedi  
+11. Pouria Moradpour  
+12. Pouria Yousefi  
+13. Reyhaneh Baqeri  
+14. Reza Mirmohammadsadeqi  
+15. Shayan Najafian  
+16. Tahmineh Torabi  
+17. Yahya Izadi  
+18. Zahra Tabatabaei
 ####  🗣️Discussion Questions
 
 ##### What do you think about these quotes?
