@@ -7,10 +7,10 @@ This is where we share our session reviews, maintain our glossary of key terms a
 
 ---
 
-| **Title & Poster**             | **Covered Resource**                                                                     | Date                 | Presenter        | Review                                      |
-| ------------------------------ | ---------------------------------------------------------------------------------------- | -------------------- | ---------------- | ------------------------------------------- |
-| ![[Optimal Stopping.png]]      | the first chapter of <br>"Algorithm to live by book, Tom Griffiths and Brian Christian " | Monday, November 3rd | Shayan Najafian  | [[AI Arc Session 2, Optimal Stopping]]      |
-| ![[Defining Intelligence.png]] | the first chapter of “Artificial Intelligence: A Modern Approach” by Russell & Norvig    | Monday, October 20th | Pouria Moradpour | [[AI Arc Session 1, Defining Intelligence]] |
+| **Title & Poster**             | **Covered Resource**                                                                  | Date                 | Presenter        | Review                                      |
+| ------------------------------ | ------------------------------------------------------------------------------------- | -------------------- | ---------------- | ------------------------------------------- |
+| ![[Optimal Stopping.png]]      | the first chapter of <br>"Algorithm to live by" by Tom Griffiths and Brian Christian  | Monday, November 3rd | Shayan Najafian  | [[AI Arc Session 2, Optimal Stopping]]      |
+| ![[Defining Intelligence.png]] | the first chapter of “Artificial Intelligence: A Modern Approach” by Russell & Norvig | Monday, October 20th | Pouria Moradpour | [[AI Arc Session 1, Defining Intelligence]] |
 
 
 Our **[Glossary](glossary%20index)** provides clear definitions of the technical terms and concepts that arise in our discussions, serving as both a reference and a record.
