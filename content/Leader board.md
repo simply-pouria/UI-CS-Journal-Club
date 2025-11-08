@@ -1,24 +1,25 @@
 
-
-|Rank|Name|Total 💡Insight Points💡|
-|---|---|---|
-|1|Pouria Moradpour|60💡|
-|2|Ali Fazel|10💡|
-|2|Behnam Moein|10💡|
-|2|Ehsan Ghaderi|10💡|
-|2|Farnoush Pourshaban|10💡|
-|2|Hossein Karimjafari|10💡|
-|2|Mohammad-Ali Safaei|10💡|
-|2|Mohammad-Amin Mojahedi|10💡|
-|2|Mohammad-Erfan Moradi|10💡|
-|2|Pouyan Motamedi|10💡|
-|2|Pouria Yousefi|10💡|
-|2|Reyhaneh Baqeri|10💡|
-|2|Reza Mirmohammadsadeqi|10💡|
-|2|Shayan Najafian|10💡|
-|2|Tahmineh Torabi|10💡|
-|2|Yahya Izadi|10💡|
-|2|Zahra Tabatabaei|10💡|
+| Rank | Name                    | Total 💡Insight Points💡 |
+| ---- | ----------------------- | ------------------------ |
+| 1    | Pouria Moradpour        | **70💡**                 |
+| 1    | Shayan Najafian         | **70💡**                 |
+| 3    | Ali Fazel               | **20💡**                 |
+| 3    | Behnam Moein            | **20💡**                 |
+| 3    | Hossein Karimjafari     | **20💡**                 |
+| 3    | Reza Mirmohammadsadeghi | **20💡**                 |
+| 3    | Yahya Izadi             | **20💡**                 |
+| 8    | Ali Meskin              | **10💡**                 |
+| 8    | Arman Riahi             | **10💡**                 |
+| 8    | Ehsan Ghaderi           | **10💡**                 |
+| 8    | Farnoush Pourshaban     | **10💡**                 |
+| 8    | Mohammad-Ali Safaei     | **10💡**                 |
+| 8    | Mohammad-Amin Mojahedi  | **10💡**                 |
+| 8    | Mohammad-Erfan Moradi   | **10💡**                 |
+| 8    | Pouyan Motamedi         | **10💡**                 |
+| 8    | Pouria Yousefi          | **10💡**                 |
+| 8    | Reyhaneh Baqeri         | **10💡**                 |
+| 8    | Tahmineh Torabi         | **10💡**                 |
+| 8    | Zahra Tabatabaei        | **10💡**                 |
 
 ---
 

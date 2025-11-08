@@ -7,10 +7,10 @@ This is where we share our session reviews, maintain our glossary of key terms a
 
 ---
 
-| **Title & Poster**             | **Covered Resource**                                                                  | Date                 | Presenter        | Review                                      |
-| ------------------------------ | ------------------------------------------------------------------------------------- | -------------------- | ---------------- | ------------------------------------------- |
-| ![[Defining Intelligence.png]] | the first chapter of “Artificial Intelligence: A Modern Approach” by Russell & Norvig | Monday, October 20th | Pouria Moradpour | [[AI Arc Session 1, Defining Intelligence]] |
-|                                |                                                                                       |                      |                  |                                             |
+| **Title & Poster**             | **Covered Resource**                                                                     | Date                 | Presenter        | Review                                      |
+| ------------------------------ | ---------------------------------------------------------------------------------------- | -------------------- | ---------------- | ------------------------------------------- |
+| ![[Optimal Stopping.png]]      | the first chapter of <br>"Algorithm to live by book, Tom Griffiths and Brian Christian " | Monday, Nocember 3rd | Shayan Najafian  | [[AI Arc Session 2, Optimal Stopping]]      |
+| ![[Defining Intelligence.png]] | the first chapter of “Artificial Intelligence: A Modern Approach” by Russell & Norvig    | Monday, October 20th | Pouria Moradpour | [[AI Arc Session 1, Defining Intelligence]] |
 
 
 Our **[Glossary](glossary%20index)** provides clear definitions of the technical terms and concepts that arise in our discussions, serving as both a reference and a record.
@@ -20,25 +20,27 @@ Each session is followed by a **[Session Review](Session%20Reviews)**, where we 
 [Here Is Our Leader Board](Leader%20board)
 
 
-|Rank|Name|Total 💡Insight Points💡|
-|---|---|---|
-|1|Pouria Moradpour|60💡|
-|2|Ali Fazel|10💡|
-|2|Behnam Moein|10💡|
-|2|Ehsan Ghaderi|10💡|
-|2|Farnoush Pourshaban|10💡|
-|2|Hossein Karimjafari|10💡|
-|2|Mohammad-Ali Safaei|10💡|
-|2|Mohammad-Amin Mojahedi|10💡|
-|2|Mohammad-Erfan Moradi|10💡|
-|2|Pouyan Motamedi|10💡|
-|2|Pouria Yousefi|10💡|
-|2|Reyhaneh Baqeri|10💡|
-|2|Reza Mirmohammadsadeqi|10💡|
-|2|Shayan Najafian|10💡|
-|2|Tahmineh Torabi|10💡|
-|2|Yahya Izadi|10💡|
-|2|Zahra Tabatabaei|10💡|
+| Rank | Name                    | Total 💡Insight Points💡 |
+| ---- | ----------------------- | ------------------------ |
+| 1    | Pouria Moradpour        | **70💡**                 |
+| 1    | Shayan Najafian         | **70💡**                 |
+| 3    | Ali Fazel               | **20💡**                 |
+| 3    | Behnam Moein            | **20💡**                 |
+| 3    | Hossein Karimjafari     | **20💡**                 |
+| 3    | Reza Mirmohammadsadeghi | **20💡**                 |
+| 3    | Yahya Izadi             | **20💡**                 |
+| 8    | Ali Meskin              | **10💡**                 |
+| 8    | Arman Riahi             | **10💡**                 |
+| 8    | Ehsan Ghaderi           | **10💡**                 |
+| 8    | Farnoush Pourshaban     | **10💡**                 |
+| 8    | Mohammad-Ali Safaei     | **10💡**                 |
+| 8    | Mohammad-Amin Mojahedi  | **10💡**                 |
+| 8    | Mohammad-Erfan Moradi   | **10💡**                 |
+| 8    | Pouyan Motamedi         | **10💡**                 |
+| 8    | Pouria Yousefi          | **10💡**                 |
+| 8    | Reyhaneh Baqeri         | **10💡**                 |
+| 8    | Tahmineh Torabi         | **10💡**                 |
+| 8    | Zahra Tabatabaei        | **10💡**                 |
 
 ---
 
