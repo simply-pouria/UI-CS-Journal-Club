@@ -29,10 +29,10 @@ Each session is followed by a **[Session Review](Session%20Reviews)**, where we 
 | 3    | Hossein Karimjafari     | **20💡**                 |
 | 3    | Reza Mirmohammadsadeghi | **20💡**                 |
 | 3    | Yahya Izadi             | **20💡**                 |
-| 8    | Ali Meskin              | **10💡**                 |
 | 8    | Arman Riahi             | **10💡**                 |
 | 8    | Ehsan Ghaderi           | **10💡**                 |
 | 8    | Farnoush Pourshaban     | **10💡**                 |
+| 8    | Mahdi Meskin            | **10💡**                 |
 | 8    | Mohammad-Ali Safaei     | **10💡**                 |
 | 8    | Mohammad-Amin Mojahedi  | **10💡**                 |
 | 8    | Mohammad-Erfan Moradi   | **10💡**                 |

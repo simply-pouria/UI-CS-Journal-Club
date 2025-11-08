@@ -15,7 +15,7 @@ Slides: [[Optimal Stopping The Science of When to Stop Looking.pdf]]
 Reviewed by:   Shayan Najafian
 #### 🗣️ Attendees  
 1. Ali Fazel
-2. Ali Meskin
+2. Mahdi Meskin
 3. Arman Riahi
 4. Behnam Moein
 5. Hossein Karimjafari
