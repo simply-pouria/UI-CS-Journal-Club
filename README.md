@@ -1,18 +1,17 @@
-# Quartz v4
+# UI Computer Science Journal Club
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A student-organized journal club at the University of Isfahan for reading, discussing, and exchanging ideas about computer science research papers and textbooks.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+🌐 **Website:** https://simply-pouria.github.io/UI-CS-Journal-Club/
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## About
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+The UI Computer Science Journal Club is a platform for students interested in computer science research to explore academic papers, discuss methodologies, and develop a deeper understanding of current topics across different areas of computer science.
 
-## Sponsors
+## My Role
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+I manage, organize, and maintain the journal club, including selecting and coordinating paper discussions, preparing and organizing session materials, and maintaining the club website and resources.
+
+## Contributing
+
+Students interested in participating or suggesting papers are welcome to contribute through discussions and proposals.
