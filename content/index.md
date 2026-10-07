@@ -18,13 +18,9 @@ New here? We'd love to get to know you!
 | ![[Defining Intelligence.png]] | the first chapter of “Artificial Intelligence: A Modern Approach” by Russell & Norvig | Monday, October 20th, 2025 | Pouria Moradpour | [[AI Arc Session 1, Defining Intelligence]] |
 
 
-Our **[Glossary](glossary%20index)** provides definitions of the technical terms and concepts that arise in our discussions, serving as both a reference and a record. (yet to be completed)
-
 Each session is followed by a **[Session Review](Session%20Reviews)**, where we summarize the discussion, highlight key points, and note further directions for exploration.
 
 [Here Is Our Leader Board](Leader%20board)
-
-
 
 | Rank | Name                    | Total 💡Insight Points💡 |
 | ---- | ----------------------- | ------------------------ |

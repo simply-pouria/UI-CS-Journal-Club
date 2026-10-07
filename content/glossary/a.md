@@ -1,5 +1,0 @@
----
-arc:
-topics:
-type: term
----

@@ -7,3 +7,4 @@ This page gathers written reviews of our sessions. Each review provides a concis
 | ------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------- | ---------------- |
 | [[AI Arc Session 1, Defining Intelligence]] | the first chapter of “Artificial Intelligence: A Modern Approach” by Russell & Norvig    | Monday, October 20th | Pouria Moradpour |
 | [[AI Arc Session 2, Optimal Stopping]]      | the first chapter of <br>"Algorithm to live by book, Tom Griffiths and Brian Christian " | Monday, November 3rd | Shayan Najafian  |
+| [[AI Arc Session 3, Word2Vec]]              | Efficient Estimation of Word Representations in Vector Space                             | Monday, October 7th  | Mahdi Meskin     |
