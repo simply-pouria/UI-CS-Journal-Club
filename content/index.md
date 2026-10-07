@@ -2,7 +2,7 @@
 title: "Welcome to AMCSUI Journal Club!"
 ---
 
-This is where we share our session reviews, maintain our glossary of key terms and keep track of everything we explore together. 
+This is where we share our session reviews and keep track of everything we explore together. 
 
 New here? We'd love to get to know you!
 
