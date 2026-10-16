@@ -39,7 +39,7 @@ Reviewed by:   Shayan Najafian
 First, we learned about the secretary problem, then we delved into its unclear history and met some computer scientists and mathematicians. Then we looked at the different strategies that can be used to solve the problem and discussed the advantages and disadvantages of each. Then we talked about the practical aspects of the problem, such as finding a partner, selling a house, finding a parking space, and getting out of a series of problems. Finally, we learned about exploration and exploitation.
   
   
-  
+  ![[JournalClub1Collage.png]]
 ---  
   
 ## 💬 Discussion Highlights  

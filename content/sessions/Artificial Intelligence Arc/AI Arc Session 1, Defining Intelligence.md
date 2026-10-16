@@ -34,6 +34,8 @@ Date: 2025-10-20
 16. Tahmineh Torabi  
 17. Yahya Izadi  
 18. Zahra Tabatabaei
+
+![[JournalClub2Collage.png]]
 ####  🗣️Discussion Questions
 
 ##### What do you think about these quotes?
