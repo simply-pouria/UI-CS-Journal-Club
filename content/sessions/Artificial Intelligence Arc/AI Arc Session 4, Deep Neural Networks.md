@@ -49,7 +49,4 @@ We connected the mathematical foundations of neural networks to their practical 
 ---  
   
 ## 🧾 References & Resources  
-  
-- Prince, S. J. D. *Understanding Deep Learning*. MIT Press, Chapters 4–7.  
 - [Understanding Deep Learning — Official Book Website](https://udlbook.github.io/udlbook/)  
-- [Presentation Slides — Deep Neural Networks: From Neurons to Gradient Descent](#)
