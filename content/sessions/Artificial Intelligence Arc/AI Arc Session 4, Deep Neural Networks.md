@@ -2,7 +2,7 @@
 ## 🧠 Session Review  
   
 **Session Title:** Deep Neural Networks: From Neurons to Gradient Descent  
-**Date:** 13th October 2026  
+**Date:** 12th October 2026  
 **Presenter:** Erfan Poursoleimani
 **Slides:** [[Deep neural networks.pdf]]
 **Reviewed by:** Erfan Poursoleimani

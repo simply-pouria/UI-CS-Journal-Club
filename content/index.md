@@ -13,7 +13,7 @@ New here? We'd love to get to know you!
 
 | **Title & Poster**             | **Covered Resource**                                                                  | Date                        | Presenter           | Review                                      |
 | ------------------------------ | ------------------------------------------------------------------------------------- | --------------------------- | ------------------- | ------------------------------------------- |
-| ![[Deep Neural Networks.jpg]]  | Prince, S. J. D. *Understanding Deep Learning*. MIT Press, Chapters 4-7.              | Monday,  October 13th, 2026 | Erfan Poursoleimani | [[AI Arc Session 4, Deep Neural Networks]]  |
+| ![[Deep Neural Networks.jpg]]  | Prince, S. J. D. *Understanding Deep Learning*. MIT Press, Chapters 4-7.              | Monday,  October 12th, 2026 | Erfan Poursoleimani | [[AI Arc Session 4, Deep Neural Networks]]  |
 | ![[Word2Vec.jpg]]              | Efficient Estimation of Word Representations in Vector Space                          | Monday,  October 5th, 2026  | Mahdi Meskin        | [[AI Arc Session 3, Word2Vec]]              |
 | ![[Optimal Stopping.png]]      | the first chapter of <br>"Algorithm to live by" by Tom Griffiths and Brian Christian  | Monday, November 3rd, 2025  | Shayan Najafian     | [[AI Arc Session 2, Optimal Stopping]]      |
 | ![[Defining Intelligence.png]] | the first chapter of “Artificial Intelligence: A Modern Approach” by Russell & Norvig | Monday, October 20th, 2025  | Pouria Moradpour    | [[AI Arc Session 1, Defining Intelligence]] |
