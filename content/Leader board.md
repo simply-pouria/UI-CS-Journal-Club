@@ -1,5 +1,5 @@
 
-# 🏆 Journal Club Leaderboard
+
 
 |Rank|Name|Total 💡Insight Points💡|
 |---|---|---|
